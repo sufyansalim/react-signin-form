@@ -1,3 +1,32 @@
+## React + Material UI
+
+__A React Signin Form, user can change from light theme to dark theme, change form language with dropdown.__
+
+![Github Search](search.png)
+
+### Getting Started
+
+First, clone the repo
+```
+$ git clone git@github.com:sufyansalim/react-signin-form-api.git
+```
+Optional : If you want to contribute. Add, remote origin.
+
+```
+$ git remote add origin https://github.com/sufyansalim/react-redux-github-api.git
+```
+Next, load all the dependencies  
+
+```
+$ cd react-github-api
+$ npm install
+``` 
+Finally, run the node server with
+
+```
+$ npm start
+```
+ ***
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
