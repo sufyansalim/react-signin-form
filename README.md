@@ -2,7 +2,7 @@
 
 __A React Signin Form, user can change from light theme to dark theme, change form language with dropdown.__
 
-![Github Search](search.png)
+![App gif](form.gif)
 
 ### Getting Started
 
