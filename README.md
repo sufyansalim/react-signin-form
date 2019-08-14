@@ -13,7 +13,7 @@ $ git clone git@github.com:sufyansalim/react-signin-form-api.git
 Optional : If you want to contribute. Add, remote origin.
 
 ```
-$ git remote add origin https://github.com/sufyansalim/react-redux-github-api.git
+$ git remote add origin https://github.com/sufyansalim/react-signin-form-api.git
 ```
 Next, load all the dependencies  
 
